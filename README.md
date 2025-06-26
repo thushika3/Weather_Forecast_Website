@@ -47,7 +47,10 @@ https://github.com/user-attachments/assets/1dd5e861-587d-4edb-8178-29ee414e94f6
 ##🙏 Acknowledgements
 
 OpenWeatherMap – Weather data API
+
 LottieFiles – Weather animations
+
 Font Awesome – Icon library
+
 StaxTech – For mentorship and opportunity during internship
 
