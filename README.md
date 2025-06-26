@@ -40,11 +40,11 @@ A responsive and interactive weather website built using **HTML**, **CSS**, and 
    -Open script.js
    -Replace the value of apiKey with your OpenWeatherMap key
 
-##📸 Demo
+## 📸 Demo
 
 https://github.com/user-attachments/assets/1dd5e861-587d-4edb-8178-29ee414e94f6
 
-##🙏 Acknowledgements
+## 🙏 Acknowledgements
 
 OpenWeatherMap – Weather data API
 
